@@ -24,6 +24,7 @@ namespace CS_Practice.Array
 			PrintArray(arr); // In ra mảng đã sắp xếp
 		}
 
+
 		static void PrintArray(int[] arr)
 		{
 			foreach (int item in arr)
