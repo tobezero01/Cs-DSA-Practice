@@ -1,0 +1,14 @@
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\bin\Debug\net7.0\CS_Practice.exe
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\bin\Debug\net7.0\CS_Practice.deps.json
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\bin\Debug\net7.0\CS_Practice.runtimeconfig.json
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\bin\Debug\net7.0\CS_Practice.dll
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\bin\Debug\net7.0\CS_Practice.pdb
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.AssemblyInfoInputs.cache
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.AssemblyInfo.cs
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.csproj.CoreCompileInputs.cache
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.dll
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\refint\CS_Practice.dll
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.pdb
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\CS_Practice.genruntimeconfig.cache
+D:\C#\DSA_Practice\CS_Practice\CS_Practice\obj\Debug\net7.0\ref\CS_Practice.dll
