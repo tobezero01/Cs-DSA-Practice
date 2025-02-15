@@ -8,4 +8,10 @@
     <StartupObject>CS_Practice.Array.main_array</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CustomLinkedList\CustomLinkedList.csproj" />
+    <ProjectReference Include="..\CustomQueue\CustomQueue.csproj" />
+    <ProjectReference Include="..\CustomStack\CustomStack.csproj" />
+  </ItemGroup>
+
 </Project>

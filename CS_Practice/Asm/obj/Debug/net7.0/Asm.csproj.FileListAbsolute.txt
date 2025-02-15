@@ -1,0 +1,15 @@
+D:\C#\DSA_Practice\CS_Practice\Asm\bin\Debug\net7.0\Asm.exe
+D:\C#\DSA_Practice\CS_Practice\Asm\bin\Debug\net7.0\Asm.deps.json
+D:\C#\DSA_Practice\CS_Practice\Asm\bin\Debug\net7.0\Asm.runtimeconfig.json
+D:\C#\DSA_Practice\CS_Practice\Asm\bin\Debug\net7.0\Asm.dll
+D:\C#\DSA_Practice\CS_Practice\Asm\bin\Debug\net7.0\Asm.pdb
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.AssemblyInfoInputs.cache
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.AssemblyInfo.cs
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.csproj.CoreCompileInputs.cache
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.sourcelink.json
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.dll
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\refint\Asm.dll
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.pdb
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\Asm.genruntimeconfig.cache
+D:\C#\DSA_Practice\CS_Practice\Asm\obj\Debug\net7.0\ref\Asm.dll

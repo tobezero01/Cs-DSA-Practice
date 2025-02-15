@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "CustomLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CustomLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomLinkedList.dll": {}
+        }
+      },
+      "CustomQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CustomQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomQueue.dll": {}
+        }
+      },
+      "CustomStack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CustomStack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomStack.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CustomLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../CustomLinkedList/CustomLinkedList.csproj",
+      "msbuildProject": "../CustomLinkedList/CustomLinkedList.csproj"
+    },
+    "CustomQueue/1.0.0": {
+      "type": "project",
+      "path": "../CustomQueue/CustomQueue.csproj",
+      "msbuildProject": "../CustomQueue/CustomQueue.csproj"
+    },
+    "CustomStack/1.0.0": {
+      "type": "project",
+      "path": "../CustomStack/CustomStack.csproj",
+      "msbuildProject": "../CustomStack/CustomStack.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CustomLinkedList >= 1.0.0",
+      "CustomQueue >= 1.0.0",
+      "CustomStack >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ducnh\\.nuget\\packages\\": {},
@@ -32,20 +83,37 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C#\\DSA_Practice\\CS_Practice\\CustomLinkedList\\CustomLinkedList.csproj": {
+              "projectPath": "D:\\C#\\DSA_Practice\\CS_Practice\\CustomLinkedList\\CustomLinkedList.csproj"
+            },
+            "D:\\C#\\DSA_Practice\\CS_Practice\\CustomQueue\\CustomQueue.csproj": {
+              "projectPath": "D:\\C#\\DSA_Practice\\CS_Practice\\CustomQueue\\CustomQueue.csproj"
+            },
+            "D:\\C#\\DSA_Practice\\CS_Practice\\CustomStack\\CustomStack.csproj": {
+              "projectPath": "D:\\C#\\DSA_Practice\\CS_Practice\\CustomStack\\CustomStack.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net7.0": {
@@ -66,7 +134,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
