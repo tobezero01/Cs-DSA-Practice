@@ -1,0 +1,15 @@
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.AssemblyInfoInputs.cache
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.AssemblyInfo.cs
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.csproj.CoreCompileInputs.cache
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.sourcelink.json
+D:\C#\DSA_Practice\CS_Practice\Leetcode\bin\Debug\net7.0\Leetcode.exe
+D:\C#\DSA_Practice\CS_Practice\Leetcode\bin\Debug\net7.0\Leetcode.deps.json
+D:\C#\DSA_Practice\CS_Practice\Leetcode\bin\Debug\net7.0\Leetcode.runtimeconfig.json
+D:\C#\DSA_Practice\CS_Practice\Leetcode\bin\Debug\net7.0\Leetcode.dll
+D:\C#\DSA_Practice\CS_Practice\Leetcode\bin\Debug\net7.0\Leetcode.pdb
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.dll
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\refint\Leetcode.dll
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.pdb
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\Leetcode.genruntimeconfig.cache
+D:\C#\DSA_Practice\CS_Practice\Leetcode\obj\Debug\net7.0\ref\Leetcode.dll
